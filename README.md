@@ -1,5 +1,9 @@
 # ⚽ Football Player Performance Analysis
 
+### 📌 Project Poster
+
+![Football Players 2021–22 Poster](https://github.com/Abhrajit23/Football-Players-2021-22-Analysis-using-Machine-Learning/raw/main/Poster.jpeg)
+
 ## 📌 Overview
 
 This project applies **Exploratory Data Analysis (EDA)** and **Predictive Modeling** techniques to analyze the performance of top football players. It offers meaningful insights into performance patterns, player comparisons, market valuations, and milestone predictions, supporting data-driven decision-making in football analytics.
